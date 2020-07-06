@@ -1,0 +1,34 @@
+@media screen and (max-width: 576px) {
+
+    #hsText, #time{
+        text-align: left;
+    }
+
+    #hsText{
+        margin-top: 1rem;
+    }
+
+    #hsText{
+        margin-left: 1rem;
+    }
+
+    #time{
+        margin-left: 2rem;
+    }
+}
+
+
+
+#formForHighscores{
+    margin: auto;
+    width: 305px;
+}
+#time{
+    text-align: right;
+}
+#hsText{
+    text-align: left;
+}
+
+
+
